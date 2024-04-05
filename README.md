@@ -22,7 +22,6 @@ Q2: analysis the trading spread and volume, both daily and intraday
 ## Asg 4
 * Calculate Kyle’s lambda (market impact)
 
-
-
-
 ## Presentation
+Volatility Dispersion, buy the volatility by buying straddle
+
